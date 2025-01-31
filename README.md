@@ -141,10 +141,3 @@ the [Security TechCenter](https://technet.microsoft.com/en-us/security/default).
 * [Murat Tuncer](https://github.com/mtuncer)
 * [Jelte Fennema](https://github.com/JelteF)
 
-## License
-
-Copyright (c) Microsoft Corporation. All rights reserved.
-
-This project is licensed under the PostgreSQL License, see LICENSE file for details.
-
-This project includes bundled third-party dependencies, see NOTICE file for details.
